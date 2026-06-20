@@ -31,6 +31,8 @@ An ESP32-based monitor and controller for Dell server power supplies (PMBus-comp
 | AC_OK | 19 |
 | PWR_GOOD | 18 |
 
+![PSU pinout](psu-pinout.png)
+
 ## Setup
 
 1. Open `Dell_PSU_Monitor.ino` in the Arduino IDE (or PlatformIO) with the ESP32 board package installed.
